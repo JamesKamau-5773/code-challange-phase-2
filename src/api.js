@@ -1,4 +1,4 @@
-const API_URL = "https://code-challange-phase-2-smart-goal-planner.onrender.com/goals"
+const API_URL = "https://code-challange-phase-2-01.onrender.com/goals"
 
 // Fallback data when backend is unavailable
 const FALLBACK_GOALS = [
